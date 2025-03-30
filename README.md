@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...bca
 - 💞️ I’m looking to collaborate on ...microsoft
-- 📫 How to reach me ...@SHAHID-glitch
+- 📫 How to reach me ...9368xxxxxx
 - 😄 Pronouns: ...@SHAHID-glitch
 - ⚡ Fun fact: ...@SHAHID-glitch
 
