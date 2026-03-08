@@ -87,9 +87,9 @@ current_focus: Backend Development, APIs, and Cloud
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -118,11 +118,7 @@ current_focus: Backend Development, APIs, and Cloud
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
