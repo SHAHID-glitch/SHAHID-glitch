@@ -87,9 +87,9 @@ current_focus: Backend Development, APIs, and Cloud
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -118,32 +118,43 @@ current_focus: Backend Development, APIs, and Cloud
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake-dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 CopilotX – Your AI Future
 
-<a href="https://github.com/SHAHID-glitch/COPILOTX-YOUR-AI-FUTURE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=COPILOTX-YOUR-AI-FUTURE&theme=tokyonight"/>
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=microsoftazure)](https://copilotx-ai-future-0218160431.azurewebsites.net/)
 
-<a href="https://github.com/SHAHID-glitch/AI_Maps_App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=AI_Maps_App&theme=tokyonight"/>
-</a>
+[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SHAHID-glitch/COPILOTX-YOUR-AI-FUTURE)
 
-<a href="https://github.com/SHAHID-glitch/StylesByShahid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=StylesByShahid&theme=tokyonight"/>
-</a>
+---
 
-<a href="https://github.com/SHAHID-glitch/Weather_Forecasting_System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=Weather_Forecasting_System&theme=tokyonight"/>
-</a>
+### 🗺 AI Maps App
 
-</p>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=microsoftazure)](https://aimaps-bmhyd6c4dmeubxb4.centralindia-01.azurewebsites.net/)
+
+[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SHAHID-glitch/AI_Maps_App)
+
+---
+
+### 🌦 Weather Forecasting System
+
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/SHAHID-glitch/Weather_Forecasting_System)
+
+---
+
+### 🎨 StylesByShahid
+
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/SHAHID-glitch/StylesByShahid)
+
 ---
 
 # 📜 Certifications
