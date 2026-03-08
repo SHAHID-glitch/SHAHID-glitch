@@ -159,7 +159,7 @@ current_focus: Backend Development, APIs, and Cloud
 
 [![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Certification-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/SHAHIDMALIK-4825/5A4F57B780B43127?sharingId=CD1D13160EC03E2B)
 
-[![Oracle](https://img.shields.io/badge/Oracle-Java%20Certification-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9F09977C9EE5956D793FB0855CA2A0B51E3852CEA47505ECC952C2C809331A7)
+[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Certification-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9F09977C9EE5956D793FB0855CA2A0B51E3852CEA47505ECC952C2C809331A7)
 
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-Learning%20Certificate-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/learning/certificates/d3f04059941a2a005f516a1d02805566afb987195ed2b1272d4ba880df144e60)
 
