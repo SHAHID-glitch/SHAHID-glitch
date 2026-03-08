@@ -87,9 +87,9 @@ current_focus: Backend Development, APIs, and Cloud
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight" height="170"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
