@@ -83,13 +83,13 @@ current_focus: Backend Development, APIs, and Cloud
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -118,7 +118,7 @@ current_focus: Backend Development, APIs, and Cloud
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
@@ -144,7 +144,6 @@ current_focus: Backend Development, APIs, and Cloud
 </a>
 
 </p>
-
 ---
 
 # 📜 Certifications
