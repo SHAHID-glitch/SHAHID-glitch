@@ -1,50 +1,179 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Shahid Malik</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 🤖 AI Enthusiast | ☁️ Azure Learner</h3>
+<div align="center">
+
+# 👋 Hi, I'm Shahid Malik
+
+### 💻 Full-Stack Developer | 🎓 BCA Student | 🚀 Open Source Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Learning+Cloud+and+Backend;Building+Real+World+Projects" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SHAHID-glitch\&color=blue\&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SHAHID-glitch?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SHAHID-glitch?style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+name: Shahid Malik
+education: BCA Student
+role: Full Stack Developer
+location: India
+current_focus: Backend Development, APIs, and Cloud
+```
+
+💻 Building **Full Stack Applications**
+🌱 Learning **Cloud, AI, and Backend Systems**
+⚡ Interested in **Open Source & Developer Tools**
+📫 Contact: **[sahidmalik9368@gmail.com](mailto:sahidmalik9368@gmail.com)**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=BCA+Student;Full+Stack+Developer;AI+Explorer;Azure+Cloud+Learner;Future+Software+Engineer" />
+
+<a href="https://linkedin.com/in/shahid-malik-765113306">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/SHAHID-glitch">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:sahidmalik9368@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
 ---
 
-## 🧠 About Me
+# 🛠 Tech Stack
 
-- 🎓 BCA (6th Semester) Student  
-- 💻 Passionate about AI & Full Stack Development  
-- ☁️ Exploring Microsoft Azure  
-- 📚 Practicing Data Structures & Algorithms  
-- 🎯 Goal: Crack Top Tech Internship  
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
-## 🛠️ Tech Stack
+# ☁️ Cloud
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
 
-### 🌐 Web & Backend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-### ☁️ Cloud & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Snake animation](https://github.com/SHAHID-glitch/SHAHID-glitch/blob/output/github-contribution-grid-snake.svg)
 ---
 
-## 📊 Skill Progress
+# 📊 GitHub Stats
 
-```text
-DSA           ████████░░ 80%
-Angular       ███████░░░ 70%
-ASP.NET Core  ███████░░░ 70%
-Azure         ██████░░░░ 60%
-AI/ML         ██████░░░░ 60%
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SHAHID-glitch&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHID-glitch&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHID-glitch&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHID-glitch&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/SHAHID-glitch/COPILOTX-YOUR-AI-FUTURE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=COPILOTX-YOUR-AI-FUTURE&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SHAHID-glitch/AI_Maps_App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=AI_Maps_App&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SHAHID-glitch/StylesByShahid">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=StylesByShahid&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SHAHID-glitch/Weather_Forecasting_System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SHAHID-glitch&repo=Weather_Forecasting_System&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Certification-0078D4?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/SHAHIDMALIK-4825/31DA8D574CE6FD28?sharingId=CD1D13160EC03E2B)
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Certification-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/SHAHIDMALIK-4825/5A4F57B780B43127?sharingId=CD1D13160EC03E2B)
+
+[![Oracle](https://img.shields.io/badge/Oracle-Java%20Certification-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9F09977C9EE5956D793FB0855CA2A0B51E3852CEA47505ECC952C2C809331A7)
+
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-Learning%20Certificate-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/learning/certificates/d3f04059941a2a005f516a1d02805566afb987195ed2b1272d4ba880df144e60)
+
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-Learning%20Certificate-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/learning/certificates/6d5820e1a34fd8439937d92aa73dd0e76113756f824d748153de5eecd641ca3a)
+
+---
+
+# 🎯 Goals for 2026
+
+• Contribute to **Open Source**
+• Build **Developer Tools**
+• Learn **Cloud Deployment**
+• Get a **Software Development Internship**
+
+---
+
+<div align="center">
+
+⭐ From **Shahid Malik**
+
+</div>
