@@ -115,15 +115,15 @@ current_focus: Backend Development, APIs, and Cloud
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SHAHID-glitch/SHAHID-glitch/raw/output/github-contribution-grid-snake-dark.svg">
-</p> 
+  <img src="https://raw.githubusercontent.com/SHAHID-glitch/SHAHID-glitch/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
 
