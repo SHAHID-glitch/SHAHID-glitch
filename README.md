@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHAHID-glitch\&color=blue\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SHAHID-glitch&color=blue&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/SHAHID-glitch?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/SHAHID-glitch?style=for-the-badge)
 
