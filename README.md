@@ -10,8 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAHID-glitch&color=blue&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/SHAHID-glitch?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/SHAHID-glitch/SHAHID-glitch?style=for-the-badge)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAHID-glitch&show_icons=true)
 </div>
 
 ---
